@@ -1,0 +1,39 @@
+{
+  "name": "passport-security",
+  "version": "0.0.1",
+  "description": "Additional security for passport to prevent crack attempts",
+  "keywords": [
+    "express",
+    "connect",
+    "auth",
+    "passport",
+    "authentication"
+  ],
+  "author": {
+    "name": "Dave Williamson",
+    "email": "github@ukit.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ukitnetwork/passport-security.git"
+  },
+  "bugs": {
+    "url": "http://github.com/ukitnetwork/passport-security/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "kvs": "0.0.1-4",
+    "node-uuid": "^1.4.3",
+    "node.extend": "^1.1.3"
+  }
+}
