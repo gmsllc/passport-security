@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd669b2-1215-4876-bd2b-e576e5119c70" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/passportsecurity.js" afterPath="$PROJECT_DIR$/lib/passportsecurity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/middleware.js" afterPath="$PROJECT_DIR$/lib/middleware.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="passport-security.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +55,8 @@
           <file leaf-file-name="kvs.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/kvs.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6983784" vertical-offset="0" max-vertical-offset="1957">
-                  <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+                <state vertical-scroll-proportion="0.732973" vertical-offset="1032" max-vertical-offset="1957">
+                  <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
                   <folding />
                 </state>
               </provider>
@@ -65,20 +66,20 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="middleware.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="middleware.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/middleware.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="6751" max-vertical-offset="8702">
-                  <caret line="414" column="26" selection-start-line="414" selection-start-column="26" selection-end-line="414" selection-end-column="26" />
+                <state vertical-scroll-proportion="0.26702702" vertical-offset="1539" max-vertical-offset="8797">
+                  <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="passportsecurity.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="passportsecurity.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/passportsecurity.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.30162162" vertical-offset="3331" max-vertical-offset="4769">
+                <state vertical-scroll-proportion="0.0" vertical-offset="3179" max-vertical-offset="4769">
                   <caret line="190" column="29" selection-start-line="190" selection-start-column="29" selection-end-line="190" selection-end-column="29" />
                   <folding />
                 </state>
@@ -118,10 +119,10 @@
         <option value="$PROJECT_DIR$/lib/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/lib/ignore" />
-        <option value="$PROJECT_DIR$/lib/middleware.js" />
         <option value="$PROJECT_DIR$/lib/kvs.js" />
         <option value="$PROJECT_DIR$/lib/store.js" />
         <option value="$PROJECT_DIR$/lib/passportsecurity.js" />
+        <option value="$PROJECT_DIR$/lib/middleware.js" />
       </list>
     </option>
   </component>
@@ -484,14 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/middleware.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="7131" max-vertical-offset="8702">
-          <caret line="414" column="26" selection-start-line="414" selection-start-column="26" selection-end-line="414" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/store.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1463">
@@ -500,18 +493,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/kvs.js">
+    <entry file="file://$PROJECT_DIR$/lib/passportsecurity.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6983784" vertical-offset="0" max-vertical-offset="1957">
-          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3179" max-vertical-offset="4769">
+          <caret line="190" column="29" selection-start-line="190" selection-start-column="29" selection-end-line="190" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/passportsecurity.js">
+    <entry file="file://$PROJECT_DIR$/lib/kvs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30162162" vertical-offset="3331" max-vertical-offset="4769">
-          <caret line="190" column="29" selection-start-line="190" selection-start-column="29" selection-end-line="190" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.732973" vertical-offset="1032" max-vertical-offset="1957">
+          <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/middleware.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26702702" vertical-offset="1539" max-vertical-offset="8797">
+          <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
           <folding />
         </state>
       </provider>
