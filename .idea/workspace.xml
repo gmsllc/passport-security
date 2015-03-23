@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1fd669b2-1215-4876-bd2b-e576e5119c70" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/middleware.js" afterPath="$PROJECT_DIR$/lib/middleware.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="passport-security.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,8 +54,8 @@
           <file leaf-file-name="kvs.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/kvs.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.732973" vertical-offset="1032" max-vertical-offset="1957">
-                  <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+                <state vertical-scroll-proportion="1.7664865" vertical-offset="0" max-vertical-offset="1957">
+                  <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -69,8 +68,8 @@
           <file leaf-file-name="middleware.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/middleware.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.26702702" vertical-offset="1539" max-vertical-offset="8797">
-                  <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+                <state vertical-scroll-proportion="0.30810812" vertical-offset="1520" max-vertical-offset="8816">
+                  <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -503,16 +502,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/kvs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.732973" vertical-offset="1032" max-vertical-offset="1957">
-          <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+        <state vertical-scroll-proportion="1.7664865" vertical-offset="0" max-vertical-offset="1957">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/middleware.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26702702" vertical-offset="1539" max-vertical-offset="8797">
-          <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.30810812" vertical-offset="1520" max-vertical-offset="8816">
+          <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding />
         </state>
       </provider>
