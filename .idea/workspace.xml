@@ -78,8 +78,8 @@
           <file leaf-file-name="middleware.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/middleware.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6290166" vertical-offset="1672" max-vertical-offset="8721">
-                  <caret line="156" column="102" selection-start-line="156" selection-start-column="102" selection-end-line="156" selection-end-column="102" />
+                <state vertical-scroll-proportion="0.87877315" vertical-offset="1710" max-vertical-offset="8759">
+                  <caret line="185" column="29" selection-start-line="185" selection-start-column="29" selection-end-line="185" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
@@ -625,8 +625,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/middleware.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6290166" vertical-offset="1672" max-vertical-offset="8721">
-          <caret line="156" column="102" selection-start-line="156" selection-start-column="102" selection-end-line="156" selection-end-column="102" />
+        <state vertical-scroll-proportion="0.87877315" vertical-offset="1710" max-vertical-offset="8759">
+          <caret line="185" column="29" selection-start-line="185" selection-start-column="29" selection-end-line="185" selection-end-column="29" />
           <folding />
         </state>
       </provider>
