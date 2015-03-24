@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd669b2-1215-4876-bd2b-e576e5119c70" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/middleware.js" afterPath="$PROJECT_DIR$/lib/middleware.js" />
     </list>
     <ignored path="passport-security.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,8 +78,8 @@
           <file leaf-file-name="middleware.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/middleware.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.26825705" vertical-offset="627" max-vertical-offset="8816">
-                  <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.6290166" vertical-offset="1672" max-vertical-offset="8721">
+                  <caret line="156" column="102" selection-start-line="156" selection-start-column="102" selection-end-line="156" selection-end-column="102" />
                   <folding />
                 </state>
               </provider>
@@ -625,8 +625,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/middleware.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26825705" vertical-offset="627" max-vertical-offset="8816">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6290166" vertical-offset="1672" max-vertical-offset="8721">
+          <caret line="156" column="102" selection-start-line="156" selection-start-column="102" selection-end-line="156" selection-end-column="102" />
           <folding />
         </state>
       </provider>
