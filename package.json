@@ -1,6 +1,6 @@
 {
   "name": "passport-security",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Additional security for passport to prevent crack attempts",
   "keywords": [
     "express",
