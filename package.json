@@ -1,6 +1,6 @@
 {
-  "name": "passport-security",
-  "version": "0.0.3",
+  "name": "@gmsllc-private/passport-security",
+  "version": "0.0.4",
   "description": "Additional security for passport to prevent crack attempts",
   "keywords": [
     "express",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ukitnetwork/passport-security.git"
+    "url": "git://github.com/gmsllc/passport-security.git"
   },
   "bugs": {
-    "url": "http://github.com/ukitnetwork/passport-security/issues"
+    "url": "http://github.com/gmsllc/passport-security/issues"
   },
   "licenses": [
     {
