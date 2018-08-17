@@ -1,6 +1,6 @@
 {
   "name": "@gmsllc-private/passport-security",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Additional security for passport to prevent crack attempts",
   "keywords": [
     "express",
