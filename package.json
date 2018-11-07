@@ -9,10 +9,8 @@
     "passport",
     "authentication"
   ],
-  "author": {
-    "name": "Dave Williamson",
-    "email": "github@ukit.net"
-  },
+  "author": "DevTeam <developers@kodify.io>",
+  "license": "SEE LICENSE IN license",
   "repository": {
     "type": "git",
     "url": "git://github.com/gmsllc/passport-security.git"
@@ -20,12 +18,6 @@
   "bugs": {
     "url": "http://github.com/gmsllc/passport-security/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
-    }
-  ],
   "main": "./lib",
   "engines": {
     "node": "10.13.0",
