@@ -1,5 +1,5 @@
 {
-  "name": "@gmsllc-private/passport-security",
+  "name": "@gmsllc/passport-security",
   "version": "0.0.9",
   "description": "Additional security for passport to prevent crack attempts",
   "keywords": [
