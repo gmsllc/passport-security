@@ -1,6 +1,6 @@
 {
   "name": "@gmsllc-private/passport-security",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "Additional security for passport to prevent crack attempts",
   "keywords": [
     "express",
@@ -26,7 +26,6 @@
   "dependencies": {
     "async": "0.9.2",
     "kvs": "git+https://github.com/ukit-network/kvs.git#master",
-    "node": "11.0.0",
     "node-uuid": "1.4.8",
     "node.extend": "1.1.7",
     "redis": "0.12.1"
